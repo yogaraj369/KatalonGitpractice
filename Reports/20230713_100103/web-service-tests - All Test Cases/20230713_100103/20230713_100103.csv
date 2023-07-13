@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web-service-tests - All Test Cases,,,,2023-07-13 10:01:14,2023-07-13 10:01:16,1.673s,ERROR
+,,,,,,,
+Test Cases/PSO,,,,2023-07-13 10:01:15,2023-07-13 10:01:16,1.113s,ERROR
+openBrowser(amazon),,Launch the browser,,2023-07-13 10:01:16,2023-07-13 10:01:16,0.050s,ERROR

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PSO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0942b37-fa90-460c-8544-5b42b465f5bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96fd8507-3a03-4528-a4cb-bc0cca6b1b38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.baseUrl</defaultValue>
+      <description></description>
+      <id>96fd8507-3a03-4528-a4cb-bc0cca6b1b38</id>
+      <masked>false</masked>
+      <name>amazon</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web-service-tests - All Test Cases,Chrome 114.0.0.0,,,2023-07-13 08:04:39,2023-07-13 08:05:02,23.808s,PASSED
+,,,,,,,
+Test Cases/PSO,Chrome 114.0.0.0,,,2023-07-13 08:04:39,2023-07-13 08:05:02,23.191s,PASSED
+"openBrowser(""https://www.amazon.in/"")",Chrome 114.0.0.0,Launch the browser,,2023-07-13 08:04:40,2023-07-13 08:04:48,8.206s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-13 08:04:48,2023-07-13 08:04:51,3.189s,PASSED
+"isLink = verifyElementHasAttribute(findTestObject(""more list""), ""tabindex"", 0)",Chrome 114.0.0.0,Verifythe element is a hyperlink,,2023-07-13 08:04:51,2023-07-13 08:04:52,0.907s,PASSED
+if (isLink),Chrome 114.0.0.0,,,2023-07-13 08:04:52,2023-07-13 08:04:52,0.015s,PASSED
+"sample.Common.moveToElement(findTestObject(""Object Repository/en""))",Chrome 114.0.0.0,Custom keyword for move to the element,,2023-07-13 08:04:52,2023-07-13 08:04:53,0.801s,PASSED
+delay(9),Chrome 114.0.0.0,,,2023-07-13 08:04:53,2023-07-13 08:05:02,9.014s,PASSED
+"isnotChecked = verifyElementNotChecked(findTestObject(""Object Repository/radiobtn""), 10)",Chrome 114.0.0.0,Verify ,,2023-07-13 08:05:02,2023-07-13 08:05:02,0.426s,PASSED
+if (isnotChecked),Chrome 114.0.0.0,,,2023-07-13 08:05:02,2023-07-13 08:05:02,0.002s,PASSED
